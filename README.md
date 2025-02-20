@@ -1,4 +1,4 @@
-Exercise 2: Javascript
+Exercise 2: Javascript Basics Part 1
 
 Sophia Reign N. Ganot
 BS Computer Science
